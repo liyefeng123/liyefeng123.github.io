@@ -1,7 +1,7 @@
 # Site settings
 title: YeFeng's Blog
 SEOTitle: 业丰的博客 | Yefeng's Blog
-header-img: img/black.jpg
+header-img: img/wallhaven-2e22em (2).jpg
 email: liyefeng1996@163.com
 description: "Every failure is leading towards success."
 keyword: "Yefeng, Yefeng's Blog, 业丰的博客, liyefeng, 李业丰, iOS, Apple, iPhone"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "TianGong university/the university of manchester"
+sidebar-about-description: "TianGong university<br>the university of manchester"
 sidebar-avatar: /img/20191010_001247.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
