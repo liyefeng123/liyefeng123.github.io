@@ -61,14 +61,14 @@ disqus_username: disqus_cneeeU6yVO
 
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 8ae2c6df6699a6d7d82d                           #生成的clientID
-  clientSecret: 5bdec1bc39863f2a14da55347e28425dd0c7a4be    #生成的clientSecret
-  repo: liyefeng123.github.io    #仓库名称
-  owner: liyefeng123    #github用户名
-  admin: 961031Qq
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+ # enable: true    #是否开启Gitalk评论
+ # clientID: 8ae2c6df6699a6d7d82d                           #生成的clientID
+ # clientSecret: 5bdec1bc39863f2a14da55347e28425dd0c7a4be    #生成的clientSecret
+ # repo: liyefeng123.github.io    #仓库名称
+ # owner: liyefeng123    #github用户名
+ # admin: 961031Qq
+ # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
